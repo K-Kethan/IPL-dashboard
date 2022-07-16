@@ -80,4 +80,5 @@ Returns a response containing details of all recent matches of a team
     ...
   ],
 }
+.
 
