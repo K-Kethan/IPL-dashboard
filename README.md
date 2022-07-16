@@ -1,5 +1,9 @@
-In this project, let's fix the **IPL Dashboard** by applying the concepts we have learned till now.
+In this project, let's build an **IPL Dashboard** which shows the recent statistics of every IPL team.
 
+OUTPUT:
+
+
+![Screenshot (9191)](https://user-images.githubusercontent.com/91373391/179346229-3e075ade-a7f0-4cd9-8c37-ea3a4e83fa4e.png)
 
 **teamsApiUrl**
 
